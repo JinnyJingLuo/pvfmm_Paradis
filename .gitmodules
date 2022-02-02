@@ -1,0 +1,6 @@
+[submodule "pvfmm_test"]
+	path = pvfmm_test
+	url = https://github.com/dmalhotra/pvfmm/
+[submodule "pvfmm_1"]
+	path = pvfmm_1
+	url = https://github.com/dmalhotra/pvfmm/
